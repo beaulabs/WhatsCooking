@@ -1,7 +1,6 @@
 {
     "enabled": true,
-    "custom_domain": "atlassearchrestaurants.com",
-    "app_default_domain": "whatscooking-agtge.mongodbstitch.com",
+    "app_default_domain": "whatscooking-lpfry.mongodbstitch.com",
     "default_error_path": "/whatsmissing.html",
     "default_error_code": "404"
 }
