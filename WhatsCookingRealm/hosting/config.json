@@ -1,6 +1,4 @@
 {
     "enabled": true,
-    "app_default_domain": "whatscooking-lpfry.mongodbstitch.com",
-    "default_error_path": "/whatsmissing.html",
-    "default_error_code": "404"
+    "app_default_domain": "whatscooking-lpfry.mongodbstitch.com"
 }
